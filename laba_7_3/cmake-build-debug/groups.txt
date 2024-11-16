@@ -1,0 +1,15 @@
+1
+GroupName:Group 1
+NumStudents:3
+StudentName:Vladislav Khodorovskiy	Year:1
+NumRecords:2
+Subject:Math	Score:4
+Subject:Physics	Score:5
+StudentName:Danil Nestirenko	Year:1
+NumRecords:2
+Subject:Math	Score:2
+Subject:Physics	Score:4
+StudentName:Lev Nekrsov	Year:1
+NumRecords:2
+Subject:Math	Score:5
+Subject:Physics	Score:2
